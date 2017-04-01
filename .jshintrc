@@ -1,0 +1,9 @@
+{
+  "undef": true,
+  "unused": true,
+  "esversion": 6,
+  "node": true,
+  "asi": true,
+  "-W117": true,
+  "-W030": true
+}

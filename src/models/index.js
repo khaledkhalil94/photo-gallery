@@ -1,0 +1,1 @@
+module.exports.now = () => Math.round(Date.now()) // Unix timestamp in milliseconds
